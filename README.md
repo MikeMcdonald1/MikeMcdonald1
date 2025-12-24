@@ -2,7 +2,7 @@
 
 - 🧠 I’m currently working on BrainLog — a developer learning journal and study tracker
 - 📚 I’m currently learning: Go, Postgres, Tailwind, React, Node.js, JavaScript
-- 💬 Ask me about: building full-stack projects, human-centered product design, or popular music (any genre/era)
+- 💬 Ask me about: human-centered product design, full-stack projects, or popular music (any genre/era)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mike-mcdonald-480/)
 
 <!--
